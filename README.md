@@ -26,6 +26,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 - [IanniX](https://www.iannix.org) - Graphical sequencer inspired by Xenakis.
 - [music21](https://web.mit.edu/music21) - Computational musicology toolkit.
 - [OpenMusic](https://openmusic-project.github.io) - Visual programming based on Lisp.
+- [Xronomorph](https://www.dynamictonality.com/xronomorph.htm) - App for creating multilayered rhythmic and melodic loops (hockets)
 
 ## Music AI & Machine Learning
 
